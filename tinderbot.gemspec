@@ -5,7 +5,7 @@ require 'tinderbot/version'
 
 Gem::Specification.new do |spec|
   spec.name = 'tinderbot'
-  spec.version = Tinderbot::VERSION
+  spec.version = Tinderbot.version
   spec.authors = ['Jeremy Venezia']
   spec.email = ['veneziajeremy@gmail.com']
   spec.summary = %q{Ruby wrapper for the Tinder API and automatic liker bot.}
