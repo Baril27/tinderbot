@@ -23,3 +23,5 @@ tmp
 mkmf.log
 .idea
 facebook_credentials.pstore
+.ruby-gemset
+.ruby-version
